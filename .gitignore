@@ -1,3 +1,5 @@
 .idea/
 /pom.xml.versionsBackup
 /*.iml
+target/
+.attach_pid*
